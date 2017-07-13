@@ -26,7 +26,7 @@ var myvar = 'my value';
 
 (function(){
 
-	//will return hello world because function ws hoisted to the top
+	//will return hello world because function was hoisted to the top
 	newFunction();
 
 
