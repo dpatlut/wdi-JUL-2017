@@ -12,7 +12,7 @@ Create a function for each of the following steps to practice DOM Manipulation a
 - Always keep in mind the parent/child node relationship on the DOM. This is key for understanding and manipulating objects on the DOM.
 
 ### Setup
-- Everything within this directory should be linked properly. You don't need to serve any files, simply open index.html in Chrome and access the developer console to begin work.
+- Everything within this directory should be linked properly.
 - You should see the word "LINKED" at the top of the console.
 - Do all of your work in the fellowship.js file included in the scripts folder.
 
@@ -61,7 +61,7 @@ function makeBuddies() {
 
 ```
 function beautifulStranger() {
-  // change the 'Strider' textnode to 'Aragorn'
+  // change the 'Strider' textnode(his name) to 'Aragorn'
 }
 ```
 
@@ -78,7 +78,7 @@ function leaveTheShire() {
 function forgeTheFellowShip() {
   // create a new div with an id of 'the-fellowship'
   // add each hobbit and buddy one at a time to 'the-fellowship'
-  // after each character is added make an <a href="http://www.w3schools.com/jsref/met_win_alert.asp">alert</a> that they have joined your party
+  // after each character is added make an alert that they have joined your party
   // append the fellowship div to rivendell
 }
 ```
@@ -87,9 +87,7 @@ function forgeTheFellowShip() {
 
 ```
 function theBalrog() {
-  // change the 'Gandalf' textNode to 'Gandalf the White'
-  // apply style to the element
-  // add a gray 3px border with
+  // change the 'Gandalf' textNode(his name) to 'Gandalf the White'
 }
 ```
 
